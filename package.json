@@ -1,0 +1,17 @@
+{
+  "name": "accordion-faq-schema-toggle",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@wordpress/scripts": "^27.9.0"
+  },
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
