@@ -2,9 +2,10 @@
 /**
  * Plugin Name: Accordion FAQ Schema Toggle
  * Description: Adds a toggle to the core/accordion block to output FAQ Schema JSON-LD markup, providing potential SEO benefits.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Andrew Viney
  * Author URI: https://www.itsviney.com
+ * Plugin URI: https://github.com/itsViney/accordion-faq-schema-toggle
  * Text Domain: accordion-faq-schema-toggle
  */
 
