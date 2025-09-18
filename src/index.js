@@ -42,6 +42,7 @@ function withFaqSchemaInspector( BlockEdit ) {
 					<PanelBody title="FAQ Schema" initialOpen={ true }>
 						<ToggleControl
 							label="Output FAQ Schema"
+							help="Generate FAQ Schema markup from the accordion and append it to the page footer. This can have SEO benefits."
 							checked={ addFaqSchema }
 							onChange={ ( value ) => setAttributes( { addFaqSchema: value } ) }
 						/>
