@@ -9,7 +9,7 @@ I made a suggestion on the [Accordion Block issue thread](https://github.com/Wor
 ## How to install
 
 1. Grab the latest .zip from the [Releases section](https://github.com/itsViney/accordion-faq-schema-toggle/releases/latest) on GitHub
-2. Upload it to your site using the Add Plugin button on the Plugins page
+2. Upload it to your site using the Upload Plugin button on the Plugins page
 3. Activate the Accordion FAQ Schema Toggle plugin
 
 ## How to use
