@@ -15,6 +15,6 @@ I made a suggestion on the [Accordion Block issue thread](https://github.com/Wor
 ## How to use
 
 1. Add an Accordion block to your page
-2. Enable the 'Output FAQ Schema' toggle in the Accordion block's Settings panel.
+2. Enable the 'This is an FAQ' toggle in the Accordion block's Settings panel.
 
-<img width="1243" height="501" alt="Screenshot showing the Output FAQ Schema toggle in the Accordion block's settings panel." src="https://github.com/user-attachments/assets/a4c94755-e9d0-4c8c-a3e8-3317a8ebbad6" />
+3. <img width="1232" height="496" alt="Screenshot showing the Output FAQ Schema toggle in the Accordion block's settings panel." src="https://github.com/user-attachments/assets/275fb648-4d04-47e9-8a91-b76fad1aac63" />
