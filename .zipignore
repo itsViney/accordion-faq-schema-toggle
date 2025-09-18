@@ -1,0 +1,29 @@
+.zipignore
+.gitignore
+.plugin-slug
+
+# Git
+
+.git/
+.github/
+
+# Build system
+
+node_modules/
+src/
+package.json
+package-lock.json
+webpack.config.js
+prepros.config
+
+# Temp or backup files
+
+_.bak
+_.old
+\*.tmp
+depricated-blocks/
+
+# Optional: editor/OS junk
+
+.DS_Store
+Thumbs.db
